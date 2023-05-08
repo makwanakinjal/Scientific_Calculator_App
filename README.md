@@ -4,7 +4,7 @@
  Welcome to my project! This application is a scientific calculator that allows users to perform advanced mathematical calculations on their Android devices.
  
  ## Features:
-1. Support for trigonometric functions, logarithmic calculations, and complex arithmetic.
+1. Support for trigonometric functions, logarithmic calculations,Trigonometri calculations and complex arithmetic.
 2. User-friendly interface with intuitive controls and real-time calculations.
 3. Ability to save and recall previous calculations.
 
@@ -15,9 +15,7 @@
   2. Android SDK 
   3. Kotlin
   4. Material Design
-  
- ## ScreenShots:
- ![Screenshot 1](/images/)
+
 ## Installation:
 To install this application, follow these steps:
 
